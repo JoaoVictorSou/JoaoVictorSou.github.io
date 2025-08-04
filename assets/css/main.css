@@ -477,6 +477,7 @@ section,
   background-color: var(--background-color);
   padding: 60px 0;
   overflow: clip;
+  height: 100vh;
 }
 
 /*--------------------------------------------------------------
@@ -1475,6 +1476,10 @@ section,
   text-align: justify;
 }
 
-#sobre-tapuia-logo {
+#about-dunascode-logo {
   margin: auto;
+}
+
+#activity-phrase {
+  height: 70px;
 }
